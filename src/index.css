@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+}
+
+:root {
+  --shadow1: 0 5px 10px rgb(0 0 0 / 10%);
+  --shadow2: inset 5px 5px 5px rgb(0 0 0 / 10%),
+    inset 0px -5px 5px rgb(0 0 0 / 10%);
+  --light-gray: #eee;
+  --green-color: #00a816;
+  --blue-color: #628ba7;
+}
